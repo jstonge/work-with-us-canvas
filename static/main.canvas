@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a4a2f50d879b461b","type":"file","file":"welcome.md","x":-420,"y":-300,"width":400,"height":300},
+		{"id":"6e879bc481352142","type":"file","file":"getting-started.md","x":180,"y":-220,"width":395,"height":360}
+	],
+	"edges":[
+		{"id":"51691eda6199c236","fromNode":"a4a2f50d879b461b","fromSide":"right","toNode":"6e879bc481352142","toSide":"left"}
+	]
+}
