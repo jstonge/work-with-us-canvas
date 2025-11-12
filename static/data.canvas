@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"326f2bacfbc7fb06","type":"file","file":"data-refresh-rate.md","x":119,"y":397,"width":268,"height":183},
-		{"id":"0a0213b4157abbc4","type":"file","file":"data-overview.md","x":-700,"y":-379,"width":420,"height":542},
+		{"id":"326f2bacfbc7fb06","type":"file","file":"data-refresh-rate.md","x":100,"y":397,"width":287,"height":203},
+		{"id":"0a0213b4157abbc4","type":"file","file":"data-overview.md","x":-1100,"y":-599,"width":820,"height":1279},
 		{"id":"25a05ce0320b9687","type":"file","file":"big-data.md","x":-160,"y":-200,"width":311,"height":219},
-		{"id":"dde6580d1fdae7e8","x":520,"y":440,"width":268,"height":240,"type":"file","file":"data-mutation.md"},
-		{"id":"f62d4ec3b3609ce4","x":819,"y":202,"width":321,"height":238,"type":"file","file":"data-interoperability.md"},
-		{"id":"735e7776efe5998a","x":919,"y":-146,"width":341,"height":246,"type":"file","file":"data-shareability.md"},
-		{"id":"b5a581146a0c5453","x":320,"y":-599,"width":267,"height":220,"type":"file","file":"data-auditability.md"},
-		{"id":"1ecbc23f5ba0a2e3","x":654,"y":-489,"width":400,"height":200,"type":"file","file":"open-data.md"}
+		{"id":"735e7776efe5998a","type":"file","file":"data-shareability.md","x":919,"y":-146,"width":341,"height":246},
+		{"id":"b5a581146a0c5453","type":"file","file":"data-auditability.md","x":280,"y":-599,"width":307,"height":179},
+		{"id":"1ecbc23f5ba0a2e3","type":"file","file":"open-data.md","x":654,"y":-489,"width":400,"height":200},
+		{"id":"f62d4ec3b3609ce4","type":"file","file":"data-interoperability.md","x":894,"y":202,"width":321,"height":238},
+		{"id":"dde6580d1fdae7e8","type":"file","file":"data-mutation.md","x":520,"y":440,"width":300,"height":240}
 	],
 	"edges":[
 		{"id":"b4a4d4d71f6b67cc","fromNode":"25a05ce0320b9687","fromSide":"top","toNode":"b5a581146a0c5453","toSide":"left","label":"Big data requiring compute\nmake it hard to \nbe auditable"},

@@ -1,1 +1,1 @@
-How big is big? Once upon a time, 100Gb was a lot. Now we don't need large infrastructure to handle such workflow, given the right computational skillsets.
+How big is big? Once upon a time, 100Gb was a lot. Now we don't need large infrastructure to handle such workflow anymore, given the right computational skillsets.
