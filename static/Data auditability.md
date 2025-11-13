@@ -1,4 +1,4 @@
-Possible to test the result of every task, where the test is often done in a different computer language and by a different analyst.
+Auditability: Possible to test the result of every task, where the test is often done in a different computer language and by a different analyst.
 
 #### Refs
 

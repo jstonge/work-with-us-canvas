@@ -15,13 +15,44 @@
               "state": {
                 "file": "data.canvas",
                 "viewState": {
-                  "x": -599.1227683391037,
-                  "y": 340.24856966177447,
-                  "zoom": 0
+                  "x": -690,
+                  "y": -58.52045266209865,
+                  "zoom": -0.8206659816027636
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "data"
+            }
+          },
+          {
+            "id": "e8b6311b63eed412",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "storywrangler-ecosystems.canvas",
+                "viewState": {
+                  "x": 178.11281094589734,
+                  "y": 18.148045337600323,
+                  "zoom": -0.4952718098958333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "storywrangler-ecosystems"
+            }
+          },
+          {
+            "id": "d2c1e6d35b42cbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is good data?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is good data?"
             }
           },
           {
@@ -38,7 +69,8 @@
               "title": "working-with-APIs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ee486154ca9ef613",
@@ -187,14 +218,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f6e29742202f5b9",
+  "active": "e8b6311b63eed412",
   "lastOpenFiles": [
-    "working-with-APIs.md",
+    "advanced.md",
+    "storywrangler-ecosystems.canvas",
+    "storywrangler-tools",
+    "storywrangler-tools/Ousiometer.md",
+    "storywrangler-tools/Archetypometrics.md",
+    "storywrangler-tools/Panometer.md",
+    "storywrangler-tools/Allotaxonometer.md",
+    "storywrangler-tools/Hedonometer.md",
+    "Untitled.md",
+    "Submitting data pipelines.md",
+    "getting-started.md",
     "data.canvas",
+    "working-with-APIs.md",
+    "What is good data?.md",
+    "Data auditability.md",
+    "data quality.md",
+    "2025-11-12.md",
     "main.canvas",
     "welcome.md",
     "open-data 1.md",
-    "data-auditability.md",
     "data-shareability.md",
     "data-interoperability.md",
     "data-mutation.md",
@@ -203,21 +248,9 @@
     "data-overview.md",
     "second.canvas",
     "open-data.md",
-    "getting-started.md",
     "team-data-annotations.md",
     "survey-data.md",
     "solo-annotations.md",
-    "small-but-qualitative-data.md",
-    "scraped-data.md",
-    "participatory-surveys.md",
-    "managing-data-pipelines.md",
-    "interactive-press-releases.md",
-    "epic-website.md",
-    "dataviz-sensitive-data.md",
-    "data-dumps.md",
-    "complex-systems.md",
-    "big-observational-data.md",
-    "annotated-data.md",
     "canvas.js.tmp.34235.1762896218093"
   ]
 }

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"5606b40bd9c056e5","x":-580,"y":-140,"width":272,"height":229,"type":"file","file":"storywrangler-tools/Hedonometer.md"},
+		{"id":"9a7208d367d61e7d","x":-220,"y":180,"width":362,"height":341,"type":"file","file":"storywrangler-tools/Panometer.md"},
+		{"id":"fb81cc6ae6f232e2","x":-340,"y":-500,"width":371,"height":174,"type":"file","file":"storywrangler-tools/Allotaxonometer.md"},
+		{"id":"bb4bc62d823431d5","x":400,"y":89,"width":400,"height":400,"type":"file","file":"storywrangler-tools/Archetypometrics.md"},
+		{"id":"367a82ce148f52d2","x":300,"y":-540,"width":400,"height":400,"type":"file","file":"storywrangler-tools/Ousiometer.md"}
+	],
+	"edges":[]
+}
